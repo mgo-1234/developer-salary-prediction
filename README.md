@@ -1,7 +1,12 @@
 # Developer Salary Prediction (Udacity ML Project)
 
 ## 📌 Project Overview
-This project uses a filtered version of the Stack Overflow survey for reproducibility. Original data is available at the Stack Overflow website. To download the official dataset, visit Stack Overflow: https://survey.stackoverflow.co/datasets/stack-overflow-developer-survey-2024.zip
+This project uses a data version of the Stack Overflow survey.
+
+Due to the large size of the original dataset, it is not included in this repository.
+
+To download the full dataset directly, please visit:  
+👉 [Stack Overflow Developer Survey 2024 Dataset](https://survey.stackoverflow.co/datasets/stack-overflow-developer-survey-2024.zip)
 
 
 ## 🔍 Dataset
