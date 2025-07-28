@@ -1,7 +1,8 @@
 # Developer Salary Prediction (Udacity ML Project)
 
 ## 📌 Project Overview
-This project uses the Stack Overflow Developer Survey to build a regression model that predicts a developer's annual salary based on their education, experience, country, and work style.
+This project uses a filtered version of the Stack Overflow survey for reproducibility. Original data is available at the Stack Overflow website. To download the official dataset, visit Stack Overflow: https://survey.stackoverflow.co/datasets/stack-overflow-developer-survey-2024.zip
+
 
 ## 🔍 Dataset
 - Source: Stack Overflow Developer Survey https://survey.stackoverflow.co/
