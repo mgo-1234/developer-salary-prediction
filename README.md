@@ -32,5 +32,10 @@ To download the full dataset directly, please visit:
 - `README.md`: This file
 
 ## 🙏 Acknowledgments
-Thanks to Stack Overflow and Udacity for making this project possible.
+
+- Stack Overflow for providing the Developer Survey dataset: https://survey.stackoverflow.co/
+- Udacity Machine Learning Nanodegree for the project structure and expectations
+- General guidance and modeling structure inspired by public tutorials on salary prediction using linear regression, such as:
+  - https://medium.com/@pratitisoumya/predicting-developer-salaries-with-machine-learning-f2d81579af86
+  - https://github.com/tien02/salary-prediction
 
