@@ -56,7 +56,6 @@ Example Plot:
 | File | Description |
 |------|-------------|
 | `developer_salary_model.ipynb` | Complete notebook with CRISP-DM analysis |
-| `survey_results_public.csv` | (Optional) Filtered data — not included due to size |
 | `images/` | Saved visualizations from the notebook |
 | `README.md` | This file |
 
